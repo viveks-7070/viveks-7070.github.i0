@@ -2,7 +2,7 @@ title:              Vivek's Blog
 email:              your-email@example.com
 description:        I am ROR developer
 author:             Vivek Srivastava
-baseurl:            "/startbootstrap-clean-blog-jekyll"
+baseurl:            "/"
 url:                "https://viveks-7070.github.io/"
 
 # Social Profiles
